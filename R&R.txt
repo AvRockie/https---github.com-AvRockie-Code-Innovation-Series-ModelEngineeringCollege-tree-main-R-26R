@@ -1,0 +1,14 @@
+SOBI
+-----
+
+A mobile app that aims to help a smoker,slowly reduce his consumption of tobacco and finally quit - taking slow steps and giving logical individual goals.
+The app asks for the user's smoking habits as of now,how many cigarattes does he/she smoke a day and the average amount of money he spends daily.
+With this data,the app provides a route map to help reduce his smoking habits slowly,with small goals daily,eventually leading him to be relieved of the habit.
+
+Extra information such as the money he has saved,the no. of cigarettes he would've but hasn't smoked,weekly progression,lifetime restored is provided to help motivate the user to continue
+his journey to what we like to call sobriety.
+
+We have used some resources from pub.dev:
+*percent_indicator
+*spinkit
+*flutter_launch_icons
